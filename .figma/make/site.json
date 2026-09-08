@@ -1,0 +1,10 @@
+{
+  "description": "This web application offers a streamlined player interface for users to easily access and manage their media content, enhancing their viewing experience.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
